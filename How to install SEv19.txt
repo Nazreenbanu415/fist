@@ -1,0 +1,10 @@
+step 1:click on "SE2DDraft"
+step :change user name (eg:John )
+step :copy and paste "SELicence" for license file 
+step :copy and paste "nSidePolygon" in optional file
+step :click on install 
+
+
+http://bit.ly/2pITzmy
+
+>>>>>>>>>>>>>>>>>>>enjoy your S2D<<<<<<<<<<<<<<<<<<<<<<<<<
